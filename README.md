@@ -1,3 +1,4 @@
 my first readme.
-My presonal work pushed 
+My personal work pushed 
 update_script branch created
+It has been fun 
